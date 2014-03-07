@@ -1,0 +1,14 @@
+David apple 1
+james orange 2
+david orange 3
+jack banana 1
+rita banana 2
+leena orange 4
+mary banana 1
+tom pear 5
+mary pear 3
+david pear 4
+mary pear 3
+jo apple 3
+tom pear 2
+
