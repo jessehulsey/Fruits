@@ -4,6 +4,7 @@
  * The fruits.txt file has the following format: personname, fruitname,fruitcount
  * The application uses a Map collection to store information
  * The application prints out a report on the total count for each fruit.
+* This is my test. there are many like it, but this one is mine
  */
 package fruits;
 
